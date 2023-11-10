@@ -1,0 +1,7 @@
+.weather-panel{
+    max-width: 600px;
+    padding: 50px;
+    border: 1px solid #09005a;
+    border-radius: 5px;
+    background: linear-gradient(180deg, #69a6e7 0%, #A4E2FF 100%);
+}
